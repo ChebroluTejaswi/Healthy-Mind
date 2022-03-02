@@ -9,7 +9,7 @@ Healthy-Mind provides a platform for an organization which focuses on Mental Hea
 ## Website Link
 https://chebrolutejaswi.github.io/Healthy-Mind/
 ## How to run 
-<li>Download the folder which you want to run.
+<li>Download the code.
 <li>Open it in any editor(mychoice: VS Code :) )
 <li>Copy the path of index.html and paste it on any browser.
 <li>Happy learning. Feel free to give feedback.
