@@ -1,0 +1,143 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat";
+  }
+  
+  p {
+    color: #8f8f8f;
+  }
+  
+  .container-fluid{
+    padding:7% 10%;
+  }
+  
+  
+  /* headings */
+  .big-heading{
+    font-family:'Philosopher';
+    font-size: 4rem;
+    line-height:1.5;
+  }
+  .section-heading{
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    line-height:1.5;
+  }
+  
+  
+  /* sections */
+  .colored-section{
+    background-color: #932ce8;
+    color:white;
+  }
+  .white-section{
+    background-image: url(images/bg_white.svg);
+    background-size: cover;
+  }
+  
+  /* navigation bar */
+  .navbar{
+    padding:0 0 4.5rem;
+  }
+  .navbar-brand{
+    font-size: 2rem;
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+  .nav-link{
+    font-size:1.2rem;
+    font-family: 'Montserrat-light';
+  }
+  @media (max-width: 576px){
+    .navbar-brand{
+      font-size: 1.5rem;
+    }
+    .big-heading{
+      font-size: 3rem;
+    }
+  }
+  
+  
+  /* main area */
+  #title{
+    color:white;
+    text-align:left;
+  }
+  #title .container-fluid {
+    padding: 3% 10% 7%;
+  }
+  .download-button{
+    margin: 5% 3% 5% 0;
+  }
+  .image{
+    width:80%;
+  }
+  
+  
+  /* features*/
+  
+  .feature-title{
+    font-size:1.5rem;
+  }
+  .images{
+    margin-bottom: 1rem;
+    height: 155.313px;
+  }
+  .feature-title:hover{
+    color:#932ce8;
+  }
+  
+  
+  /* activities */
+  .testimonial-text{
+    font-size:1.5rem;
+    line-height:1.5;
+  }
+  .testimonial-image{
+    width:50%;
+    height: 315px;
+    margin: 20px;
+  }
+  
+  
+  /* articles */
+  #articles{
+    padding:100px;
+  }
+  .articles-column{
+    padding:3% 2%;
+  }
+  .art{
+    width:40%;
+  }
+  .card-header{
+    background-color: #932ce8;
+    color:white;
+  }
+  button.btn-block:hover{
+    background-color: #932ce8;
+    color:white;
+  }
+  
+  /* cta */
+  .cta-style{
+    font-size:1.5rem;
+    padding: 5% 15% 0% 15%;
+  }
+  
+  /* Footer */
+  .social-icon {
+    font-size:30px;
+    padding:3px;
+  }
+  .social-icon:hover{
+    color: #932ce8;
+  }
+  .foot{
+    padding: 2%
+  }
+  
